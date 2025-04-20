@@ -147,7 +147,6 @@ Ensure your user account has write access to the project directory.
 
 ```
 --- Research Output ---
-Developed by: Jason Jiwan
 Timestamp: 2025-04-19 16:12:00
 
 Topic: Supply Chain
