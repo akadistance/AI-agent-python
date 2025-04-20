@@ -1,4 +1,4 @@
-# PythonAIAgentClaude
+# A.I Agent
 
 A research assistant tool that uses LangChain and Anthropic's Claude to answer user queries, leveraging Wikipedia and DuckDuckGo search. The tool generates a unique text file for each query, named with the topic and timestamp, containing the research summary, sources, and tools used.
 
