@@ -136,7 +136,7 @@ Ensure your user account has write access to the project directory.
 
 3. **Run the Script:**
     ```bash
-    python main.py
+    python3 main.py
     ```
 
 4. **Enter a Query:**
