@@ -101,6 +101,7 @@ ANTHROPIC_API_KEY=your-api-key-here
 echo. > .env
 ```
 Edit .env using Notepad or another text editor and add:
+Get your API key from https://console.anthropic.com/settings/keys
 ```
 ANTHROPIC_API_KEY=your-api-key-here
 ```
