@@ -96,11 +96,6 @@ Edit .env using a text editor and add:
 ```
 ANTHROPIC_API_KEY=your-api-key-here
 ```
-Get your API key from:
-```
-https://console.anthropic.com/settings/keys
-```
-
 **Windows:**
 ```bash
 echo. > .env
@@ -112,6 +107,11 @@ ANTHROPIC_API_KEY=your-api-key-here
 ```
 
 Replace `your-api-key-here` with your actual Anthropic API key from Anthropic's website.
+
+Get your API key from:
+```
+https://console.anthropic.com/settings/keys
+```
 
 ### 6. Verify Permissions
 
