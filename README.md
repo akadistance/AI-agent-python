@@ -92,11 +92,13 @@ Create a `.env` file in the project root to store your Anthropic API key:
 touch .env
 ```
 Edit .env using a text editor and add:
-```
-Get your API key from https://console.anthropic.com/settings/keys
-```
+
 ```
 ANTHROPIC_API_KEY=your-api-key-here
+```
+Get your API key from:
+```
+https://console.anthropic.com/settings/keys
 ```
 
 **Windows:**
