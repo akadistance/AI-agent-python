@@ -1,5 +1,4 @@
 # PythonAIAgentClaude - A Research Assistant using LangChain and Anthropic's Claude
-# Developed by: Jason Jiwan
 # Date: April 2025
 # Description: This project uses LangChain with Claude to research user queries, leveraging tools
 # like Wikipedia and DuckDuckGo search, and saves responses to a text file.
