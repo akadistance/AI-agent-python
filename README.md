@@ -2,8 +2,7 @@
 
 A research assistant tool that uses LangChain and Anthropic's Claude to answer user queries, leveraging Wikipedia and DuckDuckGo search. The tool generates a unique text file for each query, named with the topic and timestamp, containing the research summary, sources, and tools used.
 
-**Developed by:** Jason Jiwan
-**Date:** April 2025  
+**Developed by:** Jason Jiwan 
 **Purpose:** This project is designed for educational use, providing a simple way to research topics and save structured outputs for academic submissions.
 
 ## Prerequisites
