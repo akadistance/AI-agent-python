@@ -17,7 +17,6 @@ def save_to_txt(data: str, filename: str) -> str:
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         formatted_text = (
             f"--- Research Output ---\n"
-            f"Developed by: Jason Jiwan\n"
             f"Timestamp: {timestamp}\n\n"
             f"{data}\n\n"
         )
